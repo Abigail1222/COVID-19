@@ -1,5 +1,5 @@
 # COVID-19
-Pequeños projectos con la api de las estadísticas del covid-19 del John Hopkins University Center
+Pequeños proyectos con la api de las estadísticas del covid-19 del John Hopkins University Center
 
 Covid-19-Tkinter es una pequeña app en la que ingresando el codigo del país, arroja la cantidad de enfermos, recuperados y fallecimientos.
 No está validada para que arroje una excepción si se ingresa mal un código.
