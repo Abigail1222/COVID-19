@@ -3,7 +3,7 @@ Pequeños proyectos con la api de las estadísticas del covid-19 del John Hopkin
 https://covid19api.herokuapp.com/confirmed creada por https://github.com/Omaroid/Covid-19-API/blob/master/data.json
 
 Covid-19-Tkinter es una pequeña app en la que ingresando el codigo del país, arroja la cantidad de enfermos, recuperados y fallecimientos.
-No está validada para que arroje una excepción si se ingresa mal un código. Estos datos se actualizan una vez al día.
+Estos datos se actualizan una vez al día.
 
 Los códigos de los países son los siguientes:
 
