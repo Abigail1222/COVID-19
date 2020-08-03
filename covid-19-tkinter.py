@@ -15,7 +15,8 @@ def show_data(country_code):
     for steps in locations_confirmed: 
         if steps['country_code'] == country_code.upper(): 
             confirmed = steps['latest']
-            break
+         else:
+            deaths_tk["text"]="Enter a valid country code"
 
     confirmed_tk["text"]="Confirmed: "+str(confirmed)
 
